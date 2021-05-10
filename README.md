@@ -3,7 +3,7 @@
 By Catherine Huang and Alyssa Huang
 Math 22b Final Project
 
-To view full visualizations, including the world maps with clusters labeled, download notebook.ipynb.
+To view full visualizations, including the world maps with clusters labeled, download notebook.ipynb or view this project on Deepnote: https://deepnote.com/project/Math-22b-Final-Project-7BZSPcsTQPC8EOBp4P2viA/%2Fnotebook.ipynb
 
 ## Helpful sources we referenced for data, syntax, and visualizations support:
 
