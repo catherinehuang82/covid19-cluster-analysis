@@ -1,6 +1,6 @@
 # COVID-19 Cluster Analysis
 
-By Catherine Huang and Alyssa Huang
+By Alyssa Huang and Catherine Huang
 
 Math 22b Final Project
 
