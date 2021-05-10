@@ -1,6 +1,9 @@
 # COVID-19 Cluster Analysis
 
-### By Catherine Huang and Alyssa Huang, Math 22b Final Project
+### By Catherine Huang and Alyssa Huang
+### Math 22b Final Project
+
+#### To view full visualizations, including the world maps with clusters labeled, download notebook.ipynb.
 
 ## Helpful sources we referenced for data, syntax, and visualizations support:
 
