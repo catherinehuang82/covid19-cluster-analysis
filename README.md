@@ -2,7 +2,7 @@
 
 By Alyssa Huang and Catherine Huang, for Math 22b Final Project
 
-To view full visualizations, including world maps, download notebook.ipynb or view this project on Deepnote: https://deepnote.com/project/Math-22b-Final-Project-7BZSPcsTQPC8EOBp4P2viA/%2Fnotebook.ipynb
+To view full visualizations, including world maps, download notebook.ipynb or run this project on Deepnote: https://deepnote.com/project/Math-22b-Final-Project-7BZSPcsTQPC8EOBp4P2viA/%2Fnotebook.ipynb
 
 ## Helpful sources we referenced for data, syntax, and visualizations support:
 
