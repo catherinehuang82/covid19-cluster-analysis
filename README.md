@@ -11,7 +11,7 @@ https://nbviewer.jupyter.org/github/rbiele02/07_clustering_covid_time_series/blo
 * The article corresponding to this notebook (https://towardsdatascience.com/which-countries-are-affected-the-most-by-covid-19-4d4570852e31) inspired our COVID-19 case study
 
 https://www.analyticsvidhya.com/blog/2019/10/gaussian-mixture-models-clustering/
-* Provided helpful syntax on running K-means and GMM using sk-learn
+* Provided helpful syntax on running K-means and Gaussian Mixture Models using sk-learn
 
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
 * All the data we used was stored in this repository
