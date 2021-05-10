@@ -1,0 +1,3 @@
+!pip install tslearn
+!pip install vincent
+!pip install geopy
